@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on end-to-end IoT systems—from PCB prototyping and sensor integration to cloud dashboards and mobile apps—for applications like smart agriculture and environmental monitoring
 - 📫 How to reach me :
   * ✉️ Email: sarwarhossain735@gmail.com
-  * 🔗 LinkedIn: 
+  * 🔗 LinkedIn: https://www.linkedin.com/in/md-sarwar-hossain735/
   * 🐙 GitHub: https://github.com/engineersarwarhossain
   * 🐦 Twitter: 
     
